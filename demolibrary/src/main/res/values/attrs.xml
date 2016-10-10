@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background_color" format="color"/>
+    <attr name="radius" format="float"/>
+    <attr name="src" format="reference"/>
+
+    <declare-styleable name="MyFirst">
+        <attr name="background_color"/>
+        <attr name="radius"/>
+        <attr name="src"/>
+    </declare-styleable>
+</resources>
